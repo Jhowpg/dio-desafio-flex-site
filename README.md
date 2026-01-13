@@ -9,7 +9,6 @@
 ## 🖼️ Preview
 
 ![Screenshot do Projeto](img/0-main.png)
-_(Substitua este caminho pela imagem real do seu projeto finalizado)_
 
 ---
 
