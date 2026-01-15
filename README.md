@@ -8,8 +8,7 @@
 
 ## 🖼️ Preview
 
-![Screenshot do Projeto](img/0-main.png)
-_(Substitua este caminho pela imagem real do seu projeto finalizado)_
+![Screenshot do Projeto](img/preciew-flex-site.png)
 
 ---
 
